@@ -1,0 +1,650 @@
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0299266 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0158095 segundos.
+Tempo Paralelo com 4 threads: 0.0081213 segundos.
+Tempo Paralelo com 8 threads: 0.0081598 segundos.
+Tempo Paralelo com 16 threads: 0.007623 segundos.
+Tempo Paralelo com o máximo de threads: 0.0128863 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.239355 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.122111 segundos.
+Tempo Paralelo com 4 threads: 0.0608632 segundos.
+Tempo Paralelo com 8 threads: 0.0517547 segundos.
+Tempo Paralelo com 16 threads: 0.0444287 segundos.
+Tempo Paralelo com o máximo de threads: 0.0495178 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.93898 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.942521 segundos.
+Tempo Paralelo com 4 threads: 0.479677 segundos.
+Tempo Paralelo com 8 threads: 0.402812 segundos.
+Tempo Paralelo com 16 threads: 0.337789 segundos.
+Tempo Paralelo com o máximo de threads: 0.331074 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.1215 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.59224 segundos.
+Tempo Paralelo com 4 threads: 3.85073 segundos.
+Tempo Paralelo com 8 threads: 3.09691 segundos.
+Tempo Paralelo com 16 threads: 2.6523 segundos.
+Tempo Paralelo com o máximo de threads: 2.65039 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.8819 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.0677 segundos.
+Tempo Paralelo com 4 threads: 7.62421 segundos.
+Tempo Paralelo com 8 threads: 6.14022 segundos.
+Tempo Paralelo com 16 threads: 5.19585 segundos.
+Tempo Paralelo com o máximo de threads: 5.17955 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0298378 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0151843 segundos.
+Tempo Paralelo com 4 threads: 0.0085382 segundos.
+Tempo Paralelo com 8 threads: 0.0077392 segundos.
+Tempo Paralelo com 16 threads: 0.0066191 segundos.
+Tempo Paralelo com o máximo de threads: 0.0105817 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.234057 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.118664 segundos.
+Tempo Paralelo com 4 threads: 0.0633234 segundos.
+Tempo Paralelo com 8 threads: 0.0547732 segundos.
+Tempo Paralelo com 16 threads: 0.0427189 segundos.
+Tempo Paralelo com o máximo de threads: 0.0514843 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.85132 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.942739 segundos.
+Tempo Paralelo com 4 threads: 0.480145 segundos.
+Tempo Paralelo com 8 threads: 0.405447 segundos.
+Tempo Paralelo com 16 threads: 0.34244 segundos.
+Tempo Paralelo com o máximo de threads: 0.333756 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.4676 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.61586 segundos.
+Tempo Paralelo com 4 threads: 3.85667 segundos.
+Tempo Paralelo com 8 threads: 2.79592 segundos.
+Tempo Paralelo com 16 threads: 2.66811 segundos.
+Tempo Paralelo com o máximo de threads: 2.64264 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.9023 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.045 segundos.
+Tempo Paralelo com 4 threads: 7.61175 segundos.
+Tempo Paralelo com 8 threads: 5.95881 segundos.
+Tempo Paralelo com 16 threads: 5.38889 segundos.
+Tempo Paralelo com o máximo de threads: 5.17907 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0300863 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0151784 segundos.
+Tempo Paralelo com 4 threads: 0.0077341 segundos.
+Tempo Paralelo com 8 threads: 0.0077518 segundos.
+Tempo Paralelo com 16 threads: 0.006315 segundos.
+Tempo Paralelo com o máximo de threads: 0.0106237 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.236859 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.117692 segundos.
+Tempo Paralelo com 4 threads: 0.0616009 segundos.
+Tempo Paralelo com 8 threads: 0.0515447 segundos.
+Tempo Paralelo com 16 threads: 0.0443461 segundos.
+Tempo Paralelo com o máximo de threads: 0.0485165 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.86061 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.943602 segundos.
+Tempo Paralelo com 4 threads: 0.481576 segundos.
+Tempo Paralelo com 8 threads: 0.403073 segundos.
+Tempo Paralelo com 16 threads: 0.327484 segundos.
+Tempo Paralelo com o máximo de threads: 0.340064 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.0674 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.59767 segundos.
+Tempo Paralelo com 4 threads: 3.85634 segundos.
+Tempo Paralelo com 8 threads: 2.79657 segundos.
+Tempo Paralelo com 16 threads: 2.6687 segundos.
+Tempo Paralelo com o máximo de threads: 2.62824 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.908 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.096 segundos.
+Tempo Paralelo com 4 threads: 7.64401 segundos.
+Tempo Paralelo com 8 threads: 5.89057 segundos.
+Tempo Paralelo com 16 threads: 5.20051 segundos.
+Tempo Paralelo com o máximo de threads: 5.18209 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.031416 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0159828 segundos.
+Tempo Paralelo com 4 threads: 0.008225 segundos.
+Tempo Paralelo com 8 threads: 0.0077659 segundos.
+Tempo Paralelo com 16 threads: 0.0069391 segundos.
+Tempo Paralelo com o máximo de threads: 0.0108823 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.234697 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.117061 segundos.
+Tempo Paralelo com 4 threads: 0.0635027 segundos.
+Tempo Paralelo com 8 threads: 0.0531873 segundos.
+Tempo Paralelo com 16 threads: 0.0456287 segundos.
+Tempo Paralelo com o máximo de threads: 0.0536003 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.86386 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.939409 segundos.
+Tempo Paralelo com 4 threads: 0.483872 segundos.
+Tempo Paralelo com 8 threads: 0.399648 segundos.
+Tempo Paralelo com 16 threads: 0.346043 segundos.
+Tempo Paralelo com o máximo de threads: 0.332824 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.0714 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.6104 segundos.
+Tempo Paralelo com 4 threads: 3.85934 segundos.
+Tempo Paralelo com 8 threads: 2.94679 segundos.
+Tempo Paralelo com 16 threads: 2.65841 segundos.
+Tempo Paralelo com o máximo de threads: 2.63903 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.8634 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.1168 segundos.
+Tempo Paralelo com 4 threads: 7.65572 segundos.
+Tempo Paralelo com 8 threads: 6.14938 segundos.
+Tempo Paralelo com 16 threads: 5.2543 segundos.
+Tempo Paralelo com o máximo de threads: 5.18287 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0311656 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.015088 segundos.
+Tempo Paralelo com 4 threads: 0.007848 segundos.
+Tempo Paralelo com 8 threads: 0.0081078 segundos.
+Tempo Paralelo com 16 threads: 0.0069599 segundos.
+Tempo Paralelo com o máximo de threads: 0.0116258 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.234195 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.117165 segundos.
+Tempo Paralelo com 4 threads: 0.0605865 segundos.
+Tempo Paralelo com 8 threads: 0.0521396 segundos.
+Tempo Paralelo com 16 threads: 0.0438706 segundos.
+Tempo Paralelo com o máximo de threads: 0.060079 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.8627 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.944562 segundos.
+Tempo Paralelo com 4 threads: 0.481483 segundos.
+Tempo Paralelo com 8 threads: 0.402684 segundos.
+Tempo Paralelo com 16 threads: 0.343738 segundos.
+Tempo Paralelo com o máximo de threads: 0.334613 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.0697 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.58873 segundos.
+Tempo Paralelo com 4 threads: 3.85769 segundos.
+Tempo Paralelo com 8 threads: 2.9633 segundos.
+Tempo Paralelo com 16 threads: 2.6478 segundos.
+Tempo Paralelo com o máximo de threads: 2.6465 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.9912 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.0996 segundos.
+Tempo Paralelo com 4 threads: 7.65133 segundos.
+Tempo Paralelo com 8 threads: 5.88295 segundos.
+Tempo Paralelo com 16 threads: 5.24374 segundos.
+Tempo Paralelo com o máximo de threads: 5.18853 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0316455 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0155633 segundos.
+Tempo Paralelo com 4 threads: 0.0096086 segundos.
+Tempo Paralelo com 8 threads: 0.0081404 segundos.
+Tempo Paralelo com 16 threads: 0.0081532 segundos.
+Tempo Paralelo com o máximo de threads: 0.0120961 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.235833 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.117604 segundos.
+Tempo Paralelo com 4 threads: 0.0607033 segundos.
+Tempo Paralelo com 8 threads: 0.0522082 segundos.
+Tempo Paralelo com 16 threads: 0.0446835 segundos.
+Tempo Paralelo com o máximo de threads: 0.0488428 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.8536 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.942763 segundos.
+Tempo Paralelo com 4 threads: 0.480305 segundos.
+Tempo Paralelo com 8 threads: 0.410255 segundos.
+Tempo Paralelo com 16 threads: 0.324737 segundos.
+Tempo Paralelo com o máximo de threads: 0.333912 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.0486 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.60083 segundos.
+Tempo Paralelo com 4 threads: 3.8633 segundos.
+Tempo Paralelo com 8 threads: 2.8054 segundos.
+Tempo Paralelo com 16 threads: 2.65959 segundos.
+Tempo Paralelo com o máximo de threads: 2.74276 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.8791 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.0547 segundos.
+Tempo Paralelo com 4 threads: 7.65712 segundos.
+Tempo Paralelo com 8 threads: 6.14757 segundos.
+Tempo Paralelo com 16 threads: 5.22518 segundos.
+Tempo Paralelo com o máximo de threads: 5.17309 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0313954 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0151623 segundos.
+Tempo Paralelo com 4 threads: 0.008066 segundos.
+Tempo Paralelo com 8 threads: 0.0078369 segundos.
+Tempo Paralelo com 16 threads: 0.0061471 segundos.
+Tempo Paralelo com o máximo de threads: 0.0107061 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.23473 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.121207 segundos.
+Tempo Paralelo com 4 threads: 0.0607423 segundos.
+Tempo Paralelo com 8 threads: 0.0529353 segundos.
+Tempo Paralelo com 16 threads: 0.0423017 segundos.
+Tempo Paralelo com o máximo de threads: 0.0523152 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.86221 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.940994 segundos.
+Tempo Paralelo com 4 threads: 0.479149 segundos.
+Tempo Paralelo com 8 threads: 0.400101 segundos.
+Tempo Paralelo com 16 threads: 0.340374 segundos.
+Tempo Paralelo com o máximo de threads: 0.332157 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.128 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.59847 segundos.
+Tempo Paralelo com 4 threads: 3.86073 segundos.
+Tempo Paralelo com 8 threads: 2.82798 segundos.
+Tempo Paralelo com 16 threads: 2.66317 segundos.
+Tempo Paralelo com o máximo de threads: 2.64306 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.9139 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.0553 segundos.
+Tempo Paralelo com 4 threads: 7.62996 segundos.
+Tempo Paralelo com 8 threads: 6.08813 segundos.
+Tempo Paralelo com 16 threads: 5.25959 segundos.
+Tempo Paralelo com o máximo de threads: 5.16974 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0310604 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0151062 segundos.
+Tempo Paralelo com 4 threads: 0.0077965 segundos.
+Tempo Paralelo com 8 threads: 0.0077304 segundos.
+Tempo Paralelo com 16 threads: 0.006531 segundos.
+Tempo Paralelo com o máximo de threads: 0.0122393 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.236822 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.117488 segundos.
+Tempo Paralelo com 4 threads: 0.0618124 segundos.
+Tempo Paralelo com 8 threads: 0.0520306 segundos.
+Tempo Paralelo com 16 threads: 0.042086 segundos.
+Tempo Paralelo com o máximo de threads: 0.0489939 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.85899 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.939641 segundos.
+Tempo Paralelo com 4 threads: 0.492011 segundos.
+Tempo Paralelo com 8 threads: 0.470586 segundos.
+Tempo Paralelo com 16 threads: 0.359443 segundos.
+Tempo Paralelo com o máximo de threads: 0.348051 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.1761 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.59735 segundos.
+Tempo Paralelo com 4 threads: 3.85801 segundos.
+Tempo Paralelo com 8 threads: 3.06838 segundos.
+Tempo Paralelo com 16 threads: 2.66572 segundos.
+Tempo Paralelo com o máximo de threads: 2.6465 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 30.3543 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.7031 segundos.
+Tempo Paralelo com 4 threads: 7.74807 segundos.
+Tempo Paralelo com 8 threads: 5.77719 segundos.
+Tempo Paralelo com 16 threads: 5.35301 segundos.
+Tempo Paralelo com o máximo de threads: 5.22339 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0298132 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0150972 segundos.
+Tempo Paralelo com 4 threads: 0.0076983 segundos.
+Tempo Paralelo com 8 threads: 0.0076958 segundos.
+Tempo Paralelo com 16 threads: 0.0070138 segundos.
+Tempo Paralelo com o máximo de threads: 0.0110848 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.234871 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.116553 segundos.
+Tempo Paralelo com 4 threads: 0.0599151 segundos.
+Tempo Paralelo com 8 threads: 0.0504867 segundos.
+Tempo Paralelo com 16 threads: 0.0429438 segundos.
+Tempo Paralelo com o máximo de threads: 0.0488829 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.85913 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.94211 segundos.
+Tempo Paralelo com 4 threads: 0.480246 segundos.
+Tempo Paralelo com 8 threads: 0.400355 segundos.
+Tempo Paralelo com 16 threads: 0.334021 segundos.
+Tempo Paralelo com o máximo de threads: 0.346055 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.1745 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.60663 segundos.
+Tempo Paralelo com 4 threads: 3.85971 segundos.
+Tempo Paralelo com 8 threads: 2.85518 segundos.
+Tempo Paralelo com 16 threads: 2.64403 segundos.
+Tempo Paralelo com o máximo de threads: 2.63688 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.9606 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.0783 segundos.
+Tempo Paralelo com 4 threads: 7.62948 segundos.
+Tempo Paralelo com 8 threads: 5.62343 segundos.
+Tempo Paralelo com 16 threads: 5.22468 segundos.
+Tempo Paralelo com o máximo de threads: 5.17582 segundos.
+---------------
+====================
+Processando matriz 100 x 100
+
+Sequencial:
+Tempo Sequencial: 0.0307969 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.0151313 segundos.
+Tempo Paralelo com 4 threads: 0.0087914 segundos.
+Tempo Paralelo com 8 threads: 0.0077318 segundos.
+Tempo Paralelo com 16 threads: 0.007166 segundos.
+Tempo Paralelo com o máximo de threads: 0.0105164 segundos.
+---------------
+====================
+Processando matriz 200 x 200
+
+Sequencial:
+Tempo Sequencial: 0.235293 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.118078 segundos.
+Tempo Paralelo com 4 threads: 0.0598432 segundos.
+Tempo Paralelo com 8 threads: 0.051944 segundos.
+Tempo Paralelo com 16 threads: 0.0433126 segundos.
+Tempo Paralelo com o máximo de threads: 0.0496941 segundos.
+---------------
+====================
+Processando matriz 400 x 400
+
+Sequencial:
+Tempo Sequencial: 1.85815 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 0.939229 segundos.
+Tempo Paralelo com 4 threads: 0.480195 segundos.
+Tempo Paralelo com 8 threads: 0.361593 segundos.
+Tempo Paralelo com 16 threads: 0.327054 segundos.
+Tempo Paralelo com o máximo de threads: 0.345242 segundos.
+---------------
+====================
+Processando matriz 800 x 800
+
+Sequencial:
+Tempo Sequencial: 15.0563 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 7.59527 segundos.
+Tempo Paralelo com 4 threads: 3.85901 segundos.
+Tempo Paralelo com 8 threads: 2.86671 segundos.
+Tempo Paralelo com 16 threads: 2.66815 segundos.
+Tempo Paralelo com o máximo de threads: 2.63325 segundos.
+---------------
+====================
+Processando matriz 1000 x 1000
+
+Sequencial:
+Tempo Sequencial: 29.9483 segundos.
+---------------
+Paralelo:
+Tempo Paralelo com 2 threads: 15.1582 segundos.
+Tempo Paralelo com 4 threads: 7.65637 segundos.
+Tempo Paralelo com 8 threads: 5.95828 segundos.
+Tempo Paralelo com 16 threads: 5.2898 segundos.
+Tempo Paralelo com o máximo de threads: 5.18537 segundos.
+---------------
